@@ -1,20 +1,22 @@
-### Hi there 👋
+## 👋 About me
 
-[![jacksonyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackson-yyy)](https://github.com/jackson-yyy/github-readme-stats)
+- 😀 Frontend developer, mainly focus on 
+  - 😋 [idux](https://github.com/IduxFE/idux)
 
-<!--
-**jackson-yyy/jackson-yyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Most Technology stack
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
 
 
+## 📊 statistics
+
+<p>
+  <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jackson-yyy&show_icons=true&count_private=true&theme=buefy" />
+  <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-yyy&layout=compact&hide=html,vue"/>
+</p> 
+
+## 📞 Contact
+
+![Gmail](https://img.shields.io/badge/-jacksonyyy9527@gmail.com?style=flat&logo=Gmail)
